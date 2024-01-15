@@ -1688,7 +1688,7 @@ a {
 }
 
 .content-img.profile-pic {
-    width: auto;
+    /* width: auto; */
     height: 100%;
     max-width: none;
     filter: saturate(0%);
@@ -1707,8 +1707,8 @@ a {
 }
 
 .img-team-wrap {
-    width: 420px;
-    height: 420px;
+    /* width: 420px;
+    height: 420px; */
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
@@ -4100,7 +4100,7 @@ a {
         margin-bottom: 15px;
     }
     .content-img.profile-pic {
-        width: 100%;
+        /* width: 100%; */
         height: auto;
     }
     .team-blocks {
@@ -4401,7 +4401,7 @@ a {
         height: auto;
     }
     .content-img.profile-pic {
-        width: auto;
+        /* width: auto; */
         height: 100%;
     }
     .team-blocks {
