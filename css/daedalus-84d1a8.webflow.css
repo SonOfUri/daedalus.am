@@ -3772,7 +3772,8 @@ a {
     font-size: 28px;
     display: flex;
     position: absolute;
-    bottom: 0;
+    top: 0;
+    opacity: 0.2;
 }
 
 .image-8 {
