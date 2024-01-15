@@ -1720,6 +1720,10 @@ a {
     overflow: hidden;
 }
 
+.img-team-wrap  p{
+    color: #fff !important
+}
+
 .heading-3 {
     color: #fff;
     text-transform: uppercase;
